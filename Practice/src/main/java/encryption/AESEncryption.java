@@ -5,6 +5,11 @@ import java.security.Key;
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 
+/**
+ * AES Implementation using a 128-bit encryption Key
+ * @author prabhatkumar
+ *
+ */
 public class AESEncryption {
 
 	public static void main(String[] args) {

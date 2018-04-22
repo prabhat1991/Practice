@@ -15,6 +15,11 @@ import java.security.PublicKey;
 
 import javax.crypto.Cipher;
 
+/**
+ * RSA Implementation using private and public key approach
+ * @author prabhatkumar
+ *
+ */
 public class RSAEncryption {
 	/**
 	   * String to hold name of the encryption algorithm.
